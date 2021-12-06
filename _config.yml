@@ -1,6 +1,17 @@
-title: Saravanan Thiyagarajan
+title: <p align="center"> Saravanan Thiyagarajan </p>
 logo: /assets/img/Saravanan.JPG
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <a href="https://in.linkedin.com/in/saravanan-thiyagarajan-66607537">LinkedIn</a> |
+  <a href="https://github.com/sarthiya">GitHub</a>
+  
+  <br>   
+  I've started learning Data Science recently and am very excited about it.
+  I'm working as a Software Engineering Manager, specialized in delivering web applications using 
+  Java and Angular in last 5 years. 
+  I have extensively worked for Video Control plane and Consumer electronics applications using 
+  Java and C++ for 11 years before becoming a manager.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
