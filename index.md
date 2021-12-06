@@ -9,6 +9,7 @@ POC of stack overflow like application using mongo db.
 
 <center><img src="assets/img/mongo.jpg"/></center>
 
+
 ## Machine Learning
 ### Project 1
 
