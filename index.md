@@ -38,7 +38,7 @@ Data analysis of open source bike sharing dataset using SQL and Tableau, providi
 ---
 ## 4. Full stack App - Stack Overflow POC
 
-POC of stack overflow like application using mongo db.  
+POC of Stack Overflow like application using Angular JS, REST API & Mongo DB.  
 
 ##### GitHub -
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sarthiya/iaskwebapp)
