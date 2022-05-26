@@ -8,6 +8,24 @@ I've worked extensively in developing Video Control plane and Consumer electroni
 ## My Portfolio
 
 ---
+### Machine Learning - CTR prediction 
+
+In online advertising, click-through rate (CTR) is a very important metric for evaluating ad performance. As a result, click prediction systems are essential and widely used for sponsored search and real-time bidding. 
+
+The project predicts whether a user will click on an ad or not using different classification models and compare them.
+
+##### GitHub -
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sarthiya/ml_classification_algos_ctrp)
+
+---
+### Uber Exploratory Data Analysis
+
+Systematic problem solving using EDA and data visualization. The data set is a masked data set which is similar to what data analysts at Uber handle.
+
+##### GitHub -
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sarthiya/taxi_eda)
+
+---
 ### Data Analysis using SQL and Tableau
 
 Data analysis of open source bike sharing dataset using SQL and Tableau, providing insights to steer major business decisions, which help scale up the existing user base and optimize the internal operations of the company, including estimating demand prediction and optimizing operations.
