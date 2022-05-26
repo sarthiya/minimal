@@ -13,7 +13,7 @@ I've worked extensively in developing Video Control plane and Consumer electroni
 Data analysis of open source bike sharing dataset using SQL and Tableau, providing insights to steer major business decisions, which help scale up the existing user base and optimize the internal operations of the company, including estimating demand prediction and optimizing operations.
 
 ##### GitHub -
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub](https://github.com/sarthiya/sql_and_tableau_analysis)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sarthiya/sql_and_tableau_analysis)
 
 ---
 ### Full stack App - Stack Overflow POC
