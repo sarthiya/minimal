@@ -1,15 +1,13 @@
 title: <p align="center"> Saravanan Thiyagarajan </p>
-logo: /assets/img/Saravanan.JPG
+logo: <p align="center"> /assets/img/Saravanan.JPG </p>
 description: 
   <a align="center" href="https://in.linkedin.com/in/saravanan-thiyagarajan-66607537">LinkedIn</a> |
   <a align="center" href="https://github.com/sarthiya">GitHub</a>
-  <p align="center">
-  <br>   
+  <p>
   I am very excited about learning Data Science since 2021. 
   I'm currently working as a Software Engineering Manager, specialized in delivering web applications 
   using Agile methodologies in last 5 years. 
   I've worked extensively in developing Video Control plane and Consumer electronics applications for 11+ years before starting to manage projects.
-  <br>
   </p>
 
 theme: jekyll-theme-minimal
