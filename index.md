@@ -36,7 +36,15 @@ Data analysis of open source bike sharing dataset using SQL and Tableau, providi
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sarthiya/sql_and_tableau_analysis)
 
 ---
-## 4. Full stack App - Stack Overflow POC
+## 4. Data Analysis using MongoDB Query Language
+
+Data analysis of Among Us video game that was launched in 2018 and became a popular title during the COVID times. The data set contains entries for 499 Among Us games and it is an unstructured data stored in MongoDB database. 
+
+##### GitHub -
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sarthiya/mql_data_analysis)
+
+---
+## 5. Full stack App - Stack Overflow POC
 
 POC of Stack Overflow like application using Angular JS, REST API & Mongo DB.  
 
