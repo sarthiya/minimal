@@ -47,7 +47,7 @@ Data analysis of Among Us video game that was launched in 2018 and became a popu
 
 Detect fraudulent transactions, wherein once a cardholder swipes their card for payment, the transaction is classified as fraudulent or authentic based on a set of predefined rules. If it is detected to be fraudulent, then the transaction is declined.
 
-Tech Stack - Python, Kafka, MongoDB, AWS EMR
+_Tech Stack - Python, Kafka, MongoDB, AWS EMR_
 
 ---
 ## 6. NYC Parking tickets Big data Analytics
@@ -56,7 +56,7 @@ New York City is a thriving metropolis, and like most other cities of its size, 
  
 In an attempt to scientifically analyze this phenomenon, the NYC Police Department regularly collects data related to parking tickets. This data is made available by the NYC Open Data portal.
 
-Tech Stack - AWS EMR, Hive, S3
+_Tech Stack - AWS EMR, Hive, S3_
 
 ---
 ## 7. Recipe Recommendation (Big Data with Spark)
@@ -65,21 +65,21 @@ The recommendation engine is a way to increase the website's user engagement. If
 
 The performance of a recommendation engine will significantly impact the revenue your recipe site can generate. 
 
-Tech Stack - EDA & Feature Extraction using Spark, Spark ML, AWS EMR
+_Tech Stack - EDA & Feature Extraction using Spark, Spark ML, AWS EMR_
 
 ---
 ## 8. CNN Skin Cancer prediction
 
 CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
-Tech Stack - TensorFlow, Keras
+_Tech Stack - TensorFlow, Keras_
 
 ---
 ## 9. Neural Machine Translation (Spanish to English)
 
 Build an attention-based sequence-to-sequence model that can effectively understand the context of Spanish sentences and translate them into clear and coherent English sentences.
 
-Tech Stack - Keras, TensorFlow, sklearn, Encoder-Decoder model, Attention mechanism
+_Tech Stack - Keras, TensorFlow, sklearn, Encoder-Decoder model, Attention mechanism_
 
 ---
 ## 10. Style Transfer using GAN
@@ -90,7 +90,7 @@ But to have access to different imaging is difficult and expensive. With the hel
 
 CycleGAN is used to translate the style of one MRI image to another, which will help in a better understanding of the scanned image (create T2 weighted images from T1 weighted MRI image and vice-versa).
 
-Tech Stack - Keras, TensorFlow, skimage, U-Net Architecture, CycleGAN
+_Tech Stack - Keras, TensorFlow, skimage, U-Net Architecture, CycleGAN_
 
 ---
 ## 11. Full stack App - Stack Overflow POC
